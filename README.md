@@ -1,6 +1,8 @@
 # Modem and bootloader repository
 **for Samsung Galaxy A73 5G**
 
+# UNMAINTAINED PLEASE USE https://github.com/ngdplnk/proprietary_vendor_samsung_a73xq
+
 To [download](https://github.com/ngdplnk/proprietary_vendor_samsung_a73xq/releases) the correct binaries for your firmware, check your device's model number and your current OMC sales code (ex. A736B**OWO**3AWF4):
 
 <img src="readme-res/omc-info.jpg" width="40%"/>
